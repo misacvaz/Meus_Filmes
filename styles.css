@@ -229,9 +229,9 @@ section ul{
 
 }
 
-@media (min-width: 320px) {
+@media (min-width: 300px) {
     section ul li {
-       margin-left:25px;
+       margin-left:27px;
      }
    } 
 

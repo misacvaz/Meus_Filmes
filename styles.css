@@ -215,6 +215,7 @@ main section:nth-child(11){
 }
 
 
+
 /*swiper*/
 
 section{
@@ -227,3 +228,10 @@ section ul{
    
 
 }
+
+@media (min-width: 320px) {
+    section ul li {
+       margin-left:25px;
+     }
+   } 
+

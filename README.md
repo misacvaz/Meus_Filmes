@@ -8,7 +8,7 @@
 Projeto de construção de seite de filmes favoretos
 
 
-Clique aque para acessar](https://github.com/misacvaz/Meus_Filmes)
+[Clique aque para acessar](https://misacvaz.github.io/Meus_Filmes/)
 
 ## Tacnolegias
 

@@ -229,7 +229,7 @@ section ul{
 
 }
 
-@media (min-width: 300px) {
+@media (min-width: 200px) {
     section ul li {
        margin-left:27px;
      }
